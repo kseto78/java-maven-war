@@ -10,7 +10,7 @@ public class HelloWorld implements SparkApplication {
 
 	@Override
 	public void init() {
-		get("/hello", (req, res) -> getLibraryMsg());
+		get("/oficinatecnica", (req, res) -> getLibraryMsg());
 	}
         
         private String getLibraryMsg() {
