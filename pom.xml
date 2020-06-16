@@ -22,8 +22,8 @@
 		</dependency>
                 
       		<dependency>
-			<groupId>sgad.otp-j2-0080</groupId>
-			<artifactId>piloto-lib</artifactId>
+			<groupId>es.gob.sgad</groupId>
+			<artifactId>otp-j20080.piloto-lib</artifactId>
 			<version>1.0.1</version>
 		</dependency>
 
