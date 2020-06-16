@@ -4,9 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>es.gob.sgad</groupId>
-	<artifactId>otp-j20080.piloto-war</artifactId>
-	<version>2.0.0</version>
+	<groupId>es.org.otp</groupId>
+	<artifactId>piloto-war</artifactId>
+	<version>3.0.0</version>
 	<packaging>war</packaging>
 
 	<dependencies>
@@ -20,6 +20,13 @@
 			<artifactId>slf4j-simple</artifactId>
 			<version>1.7.25</version>
 		</dependency>
+                
+      		<dependency>
+			<groupId>es.gob.sgad</groupId>
+			<artifactId>otp-j20080.piloto-lib</artifactId>
+			<version>1.0.1</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>
