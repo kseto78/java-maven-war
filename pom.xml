@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>es.gobb.sgad</groupId>
-	<artifactId>otp-j20080.piloto-ucd</artifactId>
+	<artifactId>otp-j20080.piloto-war</artifactId>
 	<version>5.0.1</version>
 	<packaging>war</packaging>
 
